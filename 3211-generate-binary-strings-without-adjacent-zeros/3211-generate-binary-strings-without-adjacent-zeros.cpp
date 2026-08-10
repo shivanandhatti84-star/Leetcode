@@ -17,6 +17,7 @@ public:
         vector<string> shi;
         string s="";
         help(&shi,s,n);
+        sort(shi.begin(),shi.end());
         return shi;
     }
 };
