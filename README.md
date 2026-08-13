@@ -38,6 +38,7 @@
 | [0022-generate-parentheses](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivanandhatti84-star/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0216-combination-sum-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
