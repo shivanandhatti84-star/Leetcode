@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivanandhatti84-star/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
@@ -43,6 +44,7 @@
 | [0046-permutations](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivanandhatti84-star/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
@@ -54,6 +56,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |
