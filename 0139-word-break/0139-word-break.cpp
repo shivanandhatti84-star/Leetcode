@@ -14,7 +14,7 @@ for(auto &word : wordDict) {
     max_c = max(max_c, (int)word.size());
 }
         for(int i=min_c;i<=n;i++){
-            for(int j=i-min_c; j >= max(0, i - max_c);j--){
+            for(int j=i-min_c; j >= 0;j--){
                 if(dp[j]&&dict.count(s.substr(j,i-j))){
                     dp[i]=true;
                     break;
