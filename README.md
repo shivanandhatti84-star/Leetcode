@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivanandhatti84-star/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
@@ -43,6 +44,7 @@
 | [0040-combination-sum-ii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -69,6 +71,7 @@
 | [0040-combination-sum-ii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0216-combination-sum-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -89,8 +92,13 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0079-word-search) |
 ## Dancing Links
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
