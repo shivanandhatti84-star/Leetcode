@@ -23,6 +23,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0139-word-break) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0022-generate-parentheses](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0139-word-break) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivanandhatti84-star/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
@@ -59,6 +61,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0139-word-break) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -73,6 +76,7 @@
 | [0051-n-queens](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0216-combination-sum-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Search
@@ -101,4 +105,16 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0079-word-search) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
