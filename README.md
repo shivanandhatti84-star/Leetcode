@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0050-powx-n) |
+| [0282-expression-add-operators](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0282-expression-add-operators) |
 | [1922-count-good-numbers](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1922-count-good-numbers) |
 ## String
 |  |
@@ -36,6 +37,7 @@
 | [0079-word-search](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0139-word-break) |
+| [0282-expression-add-operators](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0282-expression-add-operators) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivanandhatti84-star/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
@@ -50,6 +52,7 @@
 | [0090-subsets-ii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0282-expression-add-operators) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivanandhatti84-star/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
