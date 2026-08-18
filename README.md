@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0050-powx-n) |
 | [0282-expression-add-operators](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0282-expression-add-operators) |
 | [1922-count-good-numbers](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1922-count-good-numbers) |
@@ -57,6 +58,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0090-subsets-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivanandhatti84-star/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
