@@ -60,6 +60,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0136-single-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shivanandhatti84-star/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivanandhatti84-star/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
@@ -82,6 +83,7 @@
 | [0051-n-queens](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0216-combination-sum-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
