@@ -22,22 +22,15 @@ public:
     }
     
     void pop() {
-        if(s.top()>min){
+        if(s.top()<min) min=(long long)2*min-s.top();
+        
+            
             s.pop();
-        }
-        else{
-            min=(long long)2*min-s.top();
-            s.pop();
-        }
+        
     }
     
     int top() {
-         if(s.top()>min){
-            return s.top();
-        }
-        else{
-            return min;
-        }
+         return (s.top()>min)?s.top():min;
     }
     
     int getMin() {
