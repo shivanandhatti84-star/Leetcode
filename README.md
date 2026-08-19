@@ -34,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -75,6 +76,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0022-generate-parentheses) |
 ## Array
 |  |
@@ -133,6 +135,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
