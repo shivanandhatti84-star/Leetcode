@@ -4,16 +4,16 @@ public:
         
     }
     stack<long long> s;
-    long long min=INT_MAX;
+    long min=INT_MAX;
     void push(int value) {
         if(s.empty()){
             s.push((long long)value);
-            min=value;
+            min=(long long)value;
         }
         else{
             if(value<min){
-                s.push((long long)(2*(long long)value)-min);
-                min=value;
+                s.push((2*(long long)value)-min);
+                min=(long long)value;
             }
             else{
                 s.push((long long)value);
@@ -26,13 +26,13 @@ public:
             s.pop();
         }
         else{
-            min=2*min-s.top();
+            min=(long long)2*min-s.top();
             s.pop();
         }
     }
     
     int top() {
-        if(s.top()>min){
+         if(s.top()>min){
             return s.top();
         }
         else{
