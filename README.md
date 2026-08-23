@@ -95,6 +95,7 @@
 | [0216-combination-sum-iii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Search
 |  |
@@ -141,6 +142,7 @@
 | [0155-min-stack](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -154,4 +156,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
