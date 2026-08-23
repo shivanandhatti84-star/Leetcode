@@ -8,8 +8,10 @@ public:
             while(!st.empty() && st.top()<=nums[ind]){
                 st.pop();
             }
+            if(i<nums.size()){
             if(st.empty()) a[ind]=-1;
             else a[ind]=st.top();
+            }
             st.push(nums[ind]);
         }
         return a;
