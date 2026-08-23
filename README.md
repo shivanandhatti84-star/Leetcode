@@ -42,6 +42,7 @@
 | [0131-palindrome-partitioning](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0282-expression-add-operators) |
+| [0402-remove-k-digits](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0402-remove-k-digits) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivanandhatti84-star/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
@@ -149,6 +150,7 @@
 | [0042-trapping-rain-water](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0735-asteroid-collision) |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -175,4 +178,8 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0735-asteroid-collision) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
