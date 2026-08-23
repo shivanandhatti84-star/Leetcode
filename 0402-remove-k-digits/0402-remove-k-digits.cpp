@@ -19,11 +19,11 @@ public:
             ans+=st.top();
             st.pop();
         }
-        if(!ans.size()) return "0";
-        while(ans.size()>0&&ans.back()=='0'&&ans!="0"){
+        while(ans.size()>0&&ans.back()=='0'){
             ans.pop_back();
         }
         reverse(ans.begin(),ans.end());
+        if(!ans.size()) return "0";
         return ans;
     }
    
