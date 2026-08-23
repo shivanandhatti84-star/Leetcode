@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> nfu(vector<int> nums){
+    vector<int> nfu(vector<int> &nums){
         stack<int> st;
         vector<int> a(nums.size());
         for(int i=nums.size()-1;i>=0;i--){
@@ -14,7 +14,7 @@ public:
         return a;
     }
 
-    vector<int> pfu(vector<int> nums){
+    vector<int> pfu(vector<int> &nums){
         stack<int> st;
         vector<int> a(nums.size());
         for(int i=0;i<nums.size();i++){
@@ -27,7 +27,7 @@ public:
         }
         return a;
     }   
-    vector<int> pfun(vector<int> nums){
+    vector<int> pfun(vector<int> &nums){
         stack<int> st;
         vector<int> a(nums.size());
         for(int i=0;i<nums.size();i++){
