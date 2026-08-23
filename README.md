@@ -24,6 +24,7 @@
 | [0037-sudoku-solver](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0139-word-break) |
+| [0496-next-greater-element-i](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0139-word-break](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0260-single-number-iii) |
+| [0496-next-greater-element-i](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Search
 |  |
@@ -138,6 +140,7 @@
 | [0020-valid-parentheses](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -147,4 +150,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
