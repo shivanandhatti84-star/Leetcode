@@ -73,8 +73,10 @@ public:
             m[key]=res;
         }
         else if(m.size()>=capacity){
+            Node* lru=tail->prev;
             int k=deletes(tail->prev);
             m.erase(k);
+            delete lru;
             Node* res=new Node(key,value);
             res=add(res);
             m[key]=res;
