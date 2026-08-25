@@ -42,6 +42,7 @@ public:
             n->prev->next=n->next;
             n->next=NULL;
             n->prev=NULL;
+            
             return n->key;          
         }
 
@@ -49,9 +50,9 @@ public:
         if(m.find(key)!=m.end()){
             Node* res=m[key];
             int a=deletes(m[key]);
-            m.erase(key);
+         
             res=add(res);
-            m[key]=res;
+        
             return m[key]->value;
         }
         return -1;
