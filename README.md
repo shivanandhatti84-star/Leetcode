@@ -28,6 +28,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0146-lru-cache) |
+| [0424-longest-repeating-character-replacement](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
@@ -47,6 +48,7 @@
 | [0139-word-break](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivanandhatti84-star/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
@@ -212,6 +214,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
