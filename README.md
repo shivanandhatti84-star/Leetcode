@@ -32,6 +32,7 @@
 | [0496-next-greater-element-i](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0282-expression-add-operators](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivanandhatti84-star/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
@@ -223,6 +225,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
