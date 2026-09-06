@@ -5,7 +5,7 @@ public:
         for(char p:t){
             a[p]++;
         }
-        long long l=0,r=0,count=a.size(),minl=INT_MAX,m=0;
+        int l=0,r=0,count=a.size(),minl=INT_MAX,m=0;
         unordered_map<char,int> b;
         while(r<s.size()){
             b[s[r]]++;
@@ -13,7 +13,7 @@ public:
                 count--;
             }
 
-            while(count<=0&&l<=r){
+            while(count==0&&l<=r){
                 if(count==0 && minl>r-l+1){
                 minl=min(minl,r-l+1);
                 m=l;
