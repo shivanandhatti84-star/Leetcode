@@ -12,20 +12,18 @@ public:
             if(a.find(s[r])!=a.end()&&a[s[r]]==b[s[r]]){
                 count--;
             }
-            if(count==0 && minl>r-l+1){
+
+            while(count<=0&&l<=r){
+                if(count==0 && minl>r-l+1){
                 minl=min(minl,r-l+1);
                 m=l;
-            } 
-            while(count<=0&&l<=r){
+                } 
                 b[s[l]]--;
                 if(a.find(s[l]) != a.end() &&b[s[l]]<a[s[l]]){
                     count++;
                 }
                 l++;
-            if(count==0 && minl>r-l+1){
-                minl=min(minl,r-l+1);
-                m=l;
-            } 
+            
             }
             r++;
         }
