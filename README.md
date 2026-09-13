@@ -9,6 +9,7 @@
 | [0061-rotate-list](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0846-hand-of-straights](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0846-hand-of-straights) |
@@ -196,6 +198,7 @@
 | [0146-lru-cache](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0355-design-twitter) |
 | [0901-online-stock-span](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -247,6 +250,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0355-design-twitter](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0355-design-twitter) |
 ## Monotonic Queue
 |  |
 | ------- |
