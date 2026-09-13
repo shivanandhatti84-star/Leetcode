@@ -8,9 +8,9 @@ public:
         for(int i=0;i<hand.size();i++){
             mapl[hand[i]]++;
         }
-        auto it=mapl.begin();
-        while(it!=mapl.end()){
-
+        
+        while(!mapl.empty()){
+         auto it=mapl.begin();
             int co=it->second;
             if(co==0){
                 ++it;
@@ -20,6 +20,8 @@ public:
             for(int i=0;i<groupSize;i++){
                 if(mapl[start+i]<co) return false;
                 mapl[start+i]-=co;
+                if(mapl[start+i]==0)mapl.erase(start+i);
+
             }
             ++it;
         }
