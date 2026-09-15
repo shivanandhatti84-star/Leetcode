@@ -32,6 +32,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -123,6 +124,7 @@
 | [0216-combination-sum-iii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0260-single-number-iii) |
+| [0347-top-k-frequent-elements](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0735-asteroid-collision) |
@@ -145,6 +147,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0846-hand-of-straights](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0846-hand-of-straights) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Algorithm X
@@ -254,6 +257,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0355-design-twitter) |
 ## Monotonic Queue
 |  |
@@ -278,16 +282,19 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -296,4 +303,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
