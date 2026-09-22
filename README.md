@@ -169,6 +169,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Trie
 |  |
 | ------- |
@@ -188,6 +189,7 @@
 | [0042-trapping-rain-water](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0402-remove-k-digits) |
@@ -307,4 +309,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
