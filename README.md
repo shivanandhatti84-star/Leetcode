@@ -60,6 +60,7 @@
 | [0079-word-search](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0139-word-break) |
+| [0257-binary-tree-paths](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -79,6 +80,7 @@
 | [0090-subsets-ii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0282-expression-add-operators) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shivanandhatti84-star/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
@@ -176,6 +178,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Trie
@@ -327,6 +330,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -338,6 +342,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
