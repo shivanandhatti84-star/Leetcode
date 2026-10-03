@@ -11,16 +11,30 @@
  */
 class Solution {
 public:
-    void flat(TreeNode* &root,TreeNode* &prev){
-        if(root==NULL) return;
-        flat(root->right,prev);
-        flat(root->left,prev);
-        root->right=prev;
-        root->left=NULL;
-        prev=root;
-    }
-    void flatten(TreeNode* root) {
-        TreeNode* prev=NULL;
-        flat(root,prev);
+    // void flat(TreeNode* &root,TreeNode* &prev){
+    //     if(root==NULL) return;
+    //     flat(root->right,prev);
+    //     flat(root->left,prev);
+    //     root->right=prev;
+    //     root->left=NULL;
+    //     prev=root;
+    // }
+    // void flatten(TreeNode* root) {
+    //     TreeNode* prev=NULL;
+    //     flat(root,prev);
+    // }
+    void flatten(TreeNode* root){
+        if(!root) return;
+        stack<TreeNode*> st;
+        st.push(root);
+        while(!st.empty()){
+            auto temp=st.top();
+            st.pop();
+            if(temp->right) st.push(temp->right);
+            if(temp->left) st.push(temp->left);
+            if(!st.empty())
+            temp->right=st.top();
+            temp->left=NULL;
+        }
     }
 };
