@@ -30,6 +30,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0146-lru-cache) |
@@ -126,6 +127,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0139-word-break) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -313,6 +315,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
@@ -338,6 +341,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -356,6 +360,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
