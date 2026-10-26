@@ -5,7 +5,7 @@ public:
             ar.push_back(a);
             return;
         }
-        if(n<0||a.size()>k) return;
+        if(n<0||a.size()>=k) return;
         for(int i=ind;i<10;i++){
             if(i<=n){
                 a.push_back(i);
