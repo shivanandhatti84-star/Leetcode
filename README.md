@@ -151,6 +151,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2104-sum-of-subarray-ranges](https://github.com/shivanandhatti84-star/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
@@ -158,6 +159,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [0846-hand-of-straights](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Algorithm X
 |  |
 | ------- |
@@ -266,6 +269,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0402-remove-k-digits) |
 | [0846-hand-of-straights](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0846-hand-of-straights) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -284,6 +288,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -313,6 +318,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
 | ------- |
