@@ -10,6 +10,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0146-lru-cache) |
+| [0237-delete-node-in-a-linked-list](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
