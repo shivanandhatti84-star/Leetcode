@@ -11,6 +11,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0355-design-twitter) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivanandhatti84-star/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivanandhatti84-star/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -168,6 +170,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -335,6 +338,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
@@ -346,6 +350,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
