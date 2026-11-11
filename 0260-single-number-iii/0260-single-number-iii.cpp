@@ -5,7 +5,13 @@ public:
         for(int i=0;i<nums.size();i++){
             xors^=(long long)nums[i];
         }
-        long long c=(xors&(xors-1))^xors;
+        long long c;
+        for(int i=0;i<32;i++){
+            if(xors&(1<<i)){
+                c=1<<i;
+                break;
+            }
+        }
         long long xor1=0,xor2=0;
         for(int i=0;i<nums.size();i++){
             if(c&nums[i]){
