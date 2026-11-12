@@ -18,10 +18,23 @@ public:
 
 
         while(sum+m<=n){
-            ans++;
-            sum=sum+m;
+            long long temp=m;
+            long long count=1;
+            bool p=true;
+            while((sum+temp+temp)<=n){
+                count+=count;
+                ans+=count;
+                sum=sum+temp+temp;
+                temp+=temp;
+                p=false;
+            }
+            if(p){
+            ans+=count;
+            sum+=m;
+            }
+
         }
-        
+
         if(ans>INT_MAX && pos) return INT_MAX;
         if(ans>INT_MAX && !pos) return INT_MIN;
 
