@@ -14,19 +14,14 @@ public:
         n=abs(n);
         m=abs(m);
         long long p=m;
-        long long ans=0,sum=0,count=1;
-        while((sum+m)<=n){
-            ans+=count;
-            sum+=m;
-            m+=m;
-            count+=count;
-        }
-        m=p;
+        long long ans=0,sum=0;
+
+
         while(sum+m<=n){
             ans++;
-            sum+=m;
+            sum=sum+m;
         }
-
+        
         if(ans>INT_MAX && pos) return INT_MAX;
         if(ans>INT_MAX && !pos) return INT_MIN;
 
