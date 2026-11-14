@@ -14,7 +14,7 @@ public:
             }
 
             while(count==0&&l<=r){
-                if(count==0 && minl>r-l+1){
+                if( minl>r-l+1){
                 minl=min(minl,r-l+1);
                 m=l;
                 } 
