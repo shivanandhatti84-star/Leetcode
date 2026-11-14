@@ -161,6 +161,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1441-build-an-array-with-stack-operations](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2104-sum-of-subarray-ranges](https://github.com/shivanandhatti84-star/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -244,6 +245,7 @@
 | [0735-asteroid-collision](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1441-build-an-array-with-stack-operations](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2104-sum-of-subarray-ranges](https://github.com/shivanandhatti84-star/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -276,6 +278,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0735-asteroid-collision) |
+| [1441-build-an-array-with-stack-operations](https://github.com/shivanandhatti84-star/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Greedy
 |  |
 | ------- |
