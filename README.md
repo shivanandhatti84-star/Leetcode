@@ -14,6 +14,7 @@
 | [0148-sort-list](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivanandhatti84-star/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -46,6 +47,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0460-lfu-cache](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0846-hand-of-straights](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -256,6 +258,7 @@
 | [0295-find-median-from-data-stream](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -327,6 +330,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/shivanandhatti84-star/Leetcode/tree/master/0460-lfu-cache) |
 ## Prefix Sum
 |  |
 | ------- |
